@@ -15,3 +15,27 @@ Conteúdo do sub-título 2...
 
 ### Sub-título de nível 3
 Conteúdo do sub-título de nível 3...
+
+# Vantagens
+
+1. Primeiro item
+2. Segundo item
+3. Terceito item
+4. Etc...
+
+# Exemplo com códigos
+
+Isto é um exemplo de marcação com código em Python
+```python
+print("Olá mundo!")
+```
+
+Isto é um exemplo de marcação de código em bash
+```bash
+apt-get install meu-software
+apt=get install dependencial dependencia2
+```
+
+Para baixar nossa ferramenta de diagnostico [Clique aqui](https://site.com).
+
+Ou acesse https://outrosite.com
