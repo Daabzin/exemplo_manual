@@ -37,5 +37,10 @@ apt=get install dependencial dependencia2
 ```
 
 Para baixar nossa ferramenta de diagnostico [Clique aqui](https://site.com).
-
+<br>
 Ou acesse https://outrosite.com
+<br>
+<br>
+Para acessar a intalação avançada [Clique aqui](INSTALACAO.dmd)
+
+CLique duas vezes no arquivo `setup.py`
